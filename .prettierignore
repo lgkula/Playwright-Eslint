@@ -1,0 +1,15 @@
+# Ignore artifacts
+node_modules
+
+test-results
+
+playwright-report
+playwright/.cache
+playwright.config.ts
+
+.prettierignore
+.prettierrc
+
+package-lock.json
+
+*spec.js
